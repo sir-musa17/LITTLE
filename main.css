@@ -1,0 +1,27 @@
+div{
+    text-align: center;
+}
+
+h1{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn{
+    text-decoration: none;
+    padding: 9px 40px 12px 40px;
+    color: white;
+    cursor: pointer;
+    text-align: center; 
+    font-size: 26px;
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 528px;
+}
